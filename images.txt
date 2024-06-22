@@ -1,1 +1,1 @@
-teslamate-org/teslamate:latest
+teslamate/teslamate
