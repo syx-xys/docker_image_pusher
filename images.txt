@@ -1,2 +1,2 @@
 teslamate/teslamate
-teslamate/grafana
+teslamate/grafana:edge
