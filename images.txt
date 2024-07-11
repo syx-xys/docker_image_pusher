@@ -1,2 +1,2 @@
-teslamate/teslamate
+teslamate/teslamate:1.30.1
 teslamate/grafana
